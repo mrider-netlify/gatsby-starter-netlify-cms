@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Crocodylus acutus
-image: /img/blue-crocs-2.0.png
+image: /img/blue-crocs.jpg
 heading: Great coffee with a conscience
 subheading: 'Exploring life, one step at a time'
 mainpitch:
